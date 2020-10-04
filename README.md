@@ -19,7 +19,7 @@ This is Linghao Chen's Github HomePage. Now, I am a student of Department of Sof
 
 [![example](https://img.shields.io/badge/ZhiHu-XDU陈凌灏-blue.svg)](https://www.zhihu.com/people/hao-55-16)![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)[![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)
 
-# Selected Prizes:
+# Selected Prizes
 
 | Time        | Competition                                                  | Prizes                  |
 | :---------- | :----------------------------------------------------------- | ----------------------- |
