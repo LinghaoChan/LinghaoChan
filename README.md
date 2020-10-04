@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**LinghaoChan/LinghaoChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LinghaoChan/LinghaoChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Biography
+
+This is Linghao Chen's Github HomePage. Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the chairman of the XDU Inspur Student Club. I got the 2018-2019 National Scholarship and 5 provincial/national/international prizes.
+
+# Selected Prizes:
+
+| Time        | Competition                                                  | Prizes                  |
+| :---------- | :----------------------------------------------------------- | ----------------------- |
+| Sep. 2019   | the National College Student Mathematical Modeling Competition | **First Prize**         |
+| Sep. 2019   | The 12th College Student Mathematics Competition in Shaanxi Province | **First Prize**         |
+| Oct. 2019   | The 11th National College Student Mathematics Competition    | **Second Prize**        |
+| Apr. 2020   | MCM/ICM                                                      | **Honorable Prize**     |
+| 2018 ~ 2019 | **Natioal Scholarship**                                      | **Natioal Scholarship** |
+
+# Links
+
+In my spare time, I will do some knowledge sharing, the following are the links.
+
++ [Spectral Analysis of Graph Convolutional Network (GCN)](https://zhuanlan.zhihu.com/p/124727955)
+
++ [Guide to Graph Reprentation Learning](https://zhuanlan.zhihu.com/p/112295277) 
+
++ [Selected Graph Paper Reading](https://mp.weixin.qq.com/s/b3FXUYRliI3QEoh_MJdwhw) 
+
++ [Operating System Concepts](https://mp.weixin.qq.com/s/QB-IHiCIWEu3bALm2Dp46Q) 
