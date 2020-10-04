@@ -40,5 +40,3 @@ In my spare time, I will do some knowledge sharing😄 , the following are the l
 + [Selected Graph Paper Reading](https://mp.weixin.qq.com/s/b3FXUYRliI3QEoh_MJdwhw) 
 
 + [Operating System Concepts](https://mp.weixin.qq.com/s/QB-IHiCIWEu3bALm2Dp46Q) 
-
-![logo](logo.png)
