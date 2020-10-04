@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 # Biography
 
 This is Linghao Chen's Github HomePage. Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the chairman of the XDU Inspur Student Club. I got the 2018-2019 National Scholarship and 5 provincial/national/international prizes.
+
+[![example](https://img.shields.io/badge/ZhiHu-XDU陈凌灏-blue.svg)](https://www.zhihu.com/people/hao-55-16)![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)[![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)
 
 # Selected Prizes:
 
@@ -31,7 +31,7 @@ This is Linghao Chen's Github HomePage. Now, I am a student of Department of Sof
 
 # Links
 
-In my spare time, I will do some knowledge sharing, the following are the links.
+In my spare time, I will do some knowledge sharing😄 , the following are the links.
 
 + [Spectral Analysis of Graph Convolutional Network (GCN)](https://zhuanlan.zhihu.com/p/124727955)
 
@@ -40,3 +40,5 @@ In my spare time, I will do some knowledge sharing, the following are the links.
 + [Selected Graph Paper Reading](https://mp.weixin.qq.com/s/b3FXUYRliI3QEoh_MJdwhw) 
 
 + [Operating System Concepts](https://mp.weixin.qq.com/s/QB-IHiCIWEu3bALm2Dp46Q) 
+
+![logo](logo.png)
