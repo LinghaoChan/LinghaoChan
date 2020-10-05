@@ -21,13 +21,13 @@ This is Linghao Chen's Github HomePage. Now, I am a student of Department of Sof
 
 # Selected Prizes
 
-| Time        | Competition                                                  | Prizes                  |
-| :---------- | :----------------------------------------------------------- | ----------------------- |
-| Sep. 2019   | the National College Student Mathematical Modeling Competition | **First Prize**         |
-| Sep. 2019   | The 12th College Student Mathematics Competition in Shaanxi Province | **First Prize**         |
-| Oct. 2019   | The 11th National College Student Mathematics Competition    | **Second Prize**        |
-| Apr. 2020   | MCM/ICM                                                      | **Honorable Prize**     |
-| 2018 ~ 2019 | **Natioal Scholarship**                                      | **Natioal Scholarship** |
+| Time        | Competition                                                  | Prizes                   |
+| :---------- | :----------------------------------------------------------- | ------------------------ |
+| Sep. 2019   | the National College Student Mathematical Modeling Competition | **First Prize**          |
+| Sep. 2019   | The 12th College Student Mathematics Competition in Shaanxi Province | **First Prize**          |
+| Oct. 2019   | The 11th National College Student Mathematics Competition    | **Second Prize**         |
+| Apr. 2020   | MCM/ICM                                                      | **Honorable Prize**      |
+| 2018 ~ 2019 | **National Scholarship**                                     | **National Scholarship** |
 
 # Links
 
