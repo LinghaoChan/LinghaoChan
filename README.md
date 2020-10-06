@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This is Linghao Chen's Github HomePage. Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the chairman of the XDU Inspur Student Club. I got the 2018-2019 National Scholarship and 5 provincial/national/international prizes.
 
-[![example](https://img.shields.io/badge/ZhiHu-XDU陈凌灏-blue.svg)](https://www.zhihu.com/people/hao-55-16)![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)[![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)
+[![example](https://img.shields.io/badge/ZhiHu-XDU陈凌灏-blue.svg)](https://www.zhihu.com/people/hao-55-16)![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)[![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
 
 # Selected Prizes
 
