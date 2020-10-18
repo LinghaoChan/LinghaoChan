@@ -13,19 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 
 # Biography
 
-This is Linghao Chen's Github HomePage. Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the chairman of the XDU Inspur Student Club. I got the 2018-2019 & 2019-2020 National Scholarship and 6 provincial/national/international prizes. 
+This is Linghao Chen's Github HomePage. Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the principal of the XDU Inspur Student Club. I got the 2018-2019 & 2019-2020 National Scholarship and 6 provincial/national/international prizes. 
 
--->
+
 
 **E-mail**: xdu Dot lhchen At gmail Dot com
 
 [![example](https://img.shields.io/badge/ZhiHu-XDU陈凌灏-blue.svg)](https://www.zhihu.com/people/hao-55-16)![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)[![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
 
-<!--
+
 
 # Selected Prizes
 
@@ -35,10 +35,10 @@ This is Linghao Chen's Github HomePage. Now, I am a student of Department of Sof
 | Sep. 2019   | The 12th College Student Mathematics Competition in Shaanxi Province | **First Prize**          |
 | Oct. 2019   | The 11th National College Student Mathematics Competition    | **Second Prize**         |
 | Apr. 2020   | MCM/ICM                                                      | **Honorable Prize**      |
-| 2018 ~ 2019 | **National Scholarship**                                     | **National Scholarship** |
-| 2019 ~ 2020 | **National Scholarship**                                     | **National Scholarship** |
+| 2018 ~ 2019 | **Scholarship**                                              | **National Scholarship** |
+| 2019 ~ 2020 | **Scholarship**                                              | **National Scholarship** |
 
--->
+
 
 # Links
 
