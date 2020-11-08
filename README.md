@@ -23,7 +23,7 @@ This is Linghao Chen's Github HomePage. Now, I am a student of Department of Sof
 
 **E-mail**: xdu Dot lhchen At gmail Dot com
 
-[![example](https://img.shields.io/badge/ZhiHu-XDU陈凌灏-blue.svg)](https://www.zhihu.com/people/hao-55-16)![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)[![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
+[![example](https://img.shields.io/badge/ZhiHu-XDU陈凌灏-blue.svg)](https://www.zhihu.com/people/hao-55-16)  ![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)  [![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
 
 
 
@@ -31,10 +31,11 @@ This is Linghao Chen's Github HomePage. Now, I am a student of Department of Sof
 
 | Time        | Competition                                                  | Prizes                   |
 | :---------- | :----------------------------------------------------------- | ------------------------ |
-| Sep. 2019   | the National College Student Mathematical Modeling Competition | **First Prize**          |
+| Sep. 2019   | The National College Student Mathematical Modeling Competition(Shaanxi Division) | **First Prize**          |
 | Sep. 2019   | The 12th College Student Mathematics Competition in Shaanxi Province | **First Prize**          |
 | Oct. 2019   | The 11th National College Student Mathematics Competition    | **Second Prize**         |
 | Apr. 2020   | MCM/ICM                                                      | **Honorable Prize**      |
+| Sep. 2020   | The National College Student Mathematical Modeling Competition(**National level**) | **First Prize**          |
 | 2018 ~ 2019 | **Scholarship**                                              | **National Scholarship** |
 | 2019 ~ 2020 | **Scholarship**                                              | **National Scholarship** |
 
