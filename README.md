@@ -13,19 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 # Biography
 
-This is Linghao Chen's Github HomePage. Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the principal of the XDU Inspur Student Club. I got the 2018-2019 & 2019-2020 National Scholarship and 6 provincial/national/international prizes. 
-
-
+This is Linghao Chen's Github HomePage. Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the principal of the XDU Inspur Student Club. I got the 2018-2019 & 2019-2020 National Scholarship and 7 provincial/national/international prizes. 
 
 **E-mail**: xdu Dot lhchen At gmail Dot com
 
 [![example](https://img.shields.io/badge/ZhiHu-XDU陈凌灏-blue.svg)](https://www.zhihu.com/people/hao-55-16)  &ensp; ![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)  &ensp; [![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)  &ensp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
-
-
 
 # Selected Prizes
 
@@ -39,8 +33,6 @@ This is Linghao Chen's Github HomePage. Now, I am a student of Department of Sof
 | 2018 ~ 2019 | **Scholarship**                                              | ***National Scholarship*** |
 | 2019 ~ 2020 | **Scholarship**                                              | ***National Scholarship*** |
 
-
-
 # Links
 
 In my spare time, I will do some knowledge sharing😄 , the following are the links.
@@ -52,3 +44,6 @@ In my spare time, I will do some knowledge sharing😄 , the following are the l
 + [Selected Graph Paper Reading](https://mp.weixin.qq.com/s/b3FXUYRliI3QEoh_MJdwhw) 
 
 + [Operating System Concepts](https://mp.weixin.qq.com/s/QB-IHiCIWEu3bALm2Dp46Q) 
+
+[![LinghaoChan's github stats](https://github-readme-stats.vercel.app/api?username=LinghaoChan&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinghaoChan&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
