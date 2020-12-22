@@ -32,7 +32,7 @@ Now, I am a student of Department of Software Engineering, [School of Computer S
 | Oct. 2019   | The 11th National College Student Mathematics Competition    | Second Prize               |
 | Oct. 2020   | The 12th National College Student Mathematics Competition    | Second Prize               |
 | Apr. 2020   | MCM/ICM                                                      | Honorable Prize            |
-| Sep. 2020   | The National College Student Mathematical Modeling Competition(***National level, TOP 0.7%***) | ***First Prize***          |
+| Sep. 2020   | National College Student Mathematical Modeling Competition(***National level TOP 0.7%***) | ***First Prize***          |
 | 2018 ~ 2019 | **Scholarship(Top 1%)**                                      | ***National Scholarship*** |
 | 2019 ~ 2020 | **Scholarship(Top 1%)**                                      | ***National Scholarship*** |
 
