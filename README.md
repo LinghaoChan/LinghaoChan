@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Biography
 
-Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the principal of the XDU Inspur Student Club. I got the 2018-2019 & 2019-2020 National Scholarship and 7 provincial/national/international prizes. 
+Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the principal of the XDU Inspur Student Club. I got the 2018-2019 & 2019-2020 National Scholarship and 8 provincial/national/international prizes. 
 
 **E-mail**: xdu Dot lhchen At gmail Dot com
 
@@ -27,13 +27,14 @@ Now, I am a student of Department of Software Engineering, [School of Computer S
 
 | Time        | Competition                                                  | Prizes                     |
 | :---------- | :----------------------------------------------------------- | :------------------------- |
-| Sep. 2019   | The National College Student Mathematical Modeling Competition(Shaanxi Division) | **First Prize**            |
-| Sep. 2019   | The 12th College Student Mathematics Competition in Shaanxi Province | **First Prize**            |
-| Oct. 2019   | The 11th National College Student Mathematics Competition    | **Second Prize**           |
-| Apr. 2020   | MCM/ICM                                                      | **Honorable Prize**        |
-| Sep. 2020   | The National College Student Mathematical Modeling Competition(***National level***) | ***First Prize***          |
-| 2018 ~ 2019 | **Scholarship**                                              | ***National Scholarship*** |
-| 2019 ~ 2020 | **Scholarship**                                              | ***National Scholarship*** |
+| Sep. 2019   | The National College Student Mathematical Modeling Competition(Shaanxi Division) | First Prize                |
+| Sep. 2019   | The 12th College Student Mathematics Competition in Shaanxi Province | First Prize                |
+| Oct. 2019   | The 11th National College Student Mathematics Competition    | Second Prize               |
+| Oct. 2020   | The 12th National College Student Mathematics Competition    | Second Prize               |
+| Apr. 2020   | MCM/ICM                                                      | Honorable Prize            |
+| Sep. 2020   | The National College Student Mathematical Modeling Competition(***National level, TOP 0.7%***) | ***First Prize***          |
+| 2018 ~ 2019 | **Scholarship(Top 1%)**                                      | ***National Scholarship*** |
+| 2019 ~ 2020 | **Scholarship(Top 1%)**                                      | ***National Scholarship*** |
 
 # Links
 
@@ -47,5 +48,5 @@ In my spare time, I will do some knowledge sharing😄 , the following are the l
 
 + [Operating System Concepts](https://mp.weixin.qq.com/s/QB-IHiCIWEu3bALm2Dp46Q) 
 
-[![LinghaoChan's github stats](https://github-readme-stats.vercel.app/api?username=LinghaoChan&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinghaoChan&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![LinghaoChan's github stats](https://github-readme-stats.vercel.app/api?username=LinghaoChan&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/LinghaoChan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinghaoChan&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/LinghaoChan)
