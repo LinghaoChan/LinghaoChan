@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Biography
 
-Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes Graph Representation Learning and Anomaly Detection. Meanwhile, I am the principal of the XDU Inspur Student Club. I got the 2018-2019 & 2019-2020 National Scholarship and 8 provincial/national/international prizes. 
+Now, I am a student of Department of Software Engineering, [School of Computer Science and Technology](https://cs.xidian.edu.cn/) in [Xidian University](https://www.xidian.edu.cn/). My research interest includes **Graph Representation Learning and Anomaly Detection**. Meanwhile, I am the principal of the XDU Inspur Student Club. I got the 2018-2019 & 2019-2020 National Scholarship and 8 provincial/national/international prizes. 
 
 **E-mail**: xdu Dot lhchen At gmail Dot com
 
