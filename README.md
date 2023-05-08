@@ -1,16 +1,16 @@
-### Hi there 👋
+ <!-- **If you need to deploy our research work or seek interns, please reach out to me via thu DOT lhchen AT gmail DOT com.**-->
 
-<!--
-**LinghaoChan/LinghaoChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi here, I'm Ling-Hao CHEN (陈凌灏 in Chinese, Evan in English)!**
 
-Here are some ideas to get you started:
+Now, I am a first-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Harry SHUM](https://www.microsoft.com/en-us/research/people/hshum/). I obtained my bachelor's degree from [Xidian University](https://www.xidian.edu.cn/) in June 2022. My research interest includes **Computer Graphics** and **Computer Vision**, especially **motion synthesis**. I have worked as a Research Intern at International Digital Economy Academy since Nov. 2021, where I work closely with Dr. [Ailing ZENG](https://ailingzeng.site/) and Prof. [Lei ZHANG](https://www.leizhang.org/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Conference Reviewer or PC Member**: NeurIPS, UAI, ICIC.
+
+**E-mail**: thu DOT lhchen AT gmail DOT com **OR** chenlinghao AT idea DOT edu DOT cn
+
+[![example](https://img.shields.io/badge/ZhiHu-EvanCHEN-blue.svg)](https://www.zhihu.com/people/hao-55-16)  &ensp; ![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)  &ensp; [![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)  &ensp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
+
+
+[![LinghaoChan's github stars](https://github-readme-stats.vercel.app/api?username=LinghaoChan&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/LinghaoChan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinghaoChan&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/LinghaoChan)
