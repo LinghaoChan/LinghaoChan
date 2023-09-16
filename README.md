@@ -4,7 +4,7 @@
 
 Now, I am a second-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Harry SHUM](https://www.microsoft.com/en-us/research/people/hshum/). I obtained my bachelor's degree from [Xidian University](https://www.xidian.edu.cn/) in June 2022. My research interest includes **Computer Graphics** and **Computer Vision**, especially **motion synthesis**. I have worked as a Research Intern at the International Digital Economy Academy (IDEA Research) since Nov. 2021, where I work closely with Prof. [Lei ZHANG](https://www.leizhang.org/).
 
-**Conference/Journal Reviewer or PC Member**: ICLR (2024), NeurIPS (2023), ICCV (2023), ICDM (2023), UAI (2023), ACML (2023), and Information Fusion.
+**Conference/Journal Reviewer or PC Member**: ICLR (2024), NeurIPS (2023), ICCV (2023), ICDM (2023), AAAI (2024), UAI (2023), ACML (2023), and Information Fusion.
 
 **E-mail**: thu DOT lhchen AT gmail DOT com
 
