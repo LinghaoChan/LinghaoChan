@@ -13,4 +13,4 @@ Now, I am a second-year Ph.D. student at [Tsinghua University](https://www.tsing
 
 [![LinghaoChan's github stars](https://github-readme-stats.vercel.app/api?username=LinghaoChan&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/LinghaoChan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinghaoChan&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/LinghaoChan)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinghaoChan&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/LinghaoChan) -->
