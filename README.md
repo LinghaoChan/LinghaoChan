@@ -11,6 +11,6 @@ Now, I am a second-year Ph.D. student at [Tsinghua University](https://www.tsing
 [![example](https://img.shields.io/badge/ZhiHu-EvanCHEN-blue.svg)](https://www.zhihu.com/people/hao-55-16)  &ensp; ![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)  &ensp; [![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)  &ensp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
 
 
-[![LinghaoChan's github stars](https://github-readme-stats.vercel.app/api?username=LinghaoChan&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/LinghaoChan)
+[![LinghaoChan's github stars](https://github-readme-stats.vercel.app/api?username=LinghaoChan&theme=material-palenight&count_private=true&hide=contribs&rank_icon=github\&show=prs_merged,prs_merged_percentage)](https://github.com/LinghaoChan)
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinghaoChan&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/LinghaoChan) -->
