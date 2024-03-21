@@ -6,7 +6,7 @@ Now, I am a second-year Ph.D. student at [Tsinghua University](https://www.tsing
 
 **Conference Reviewer or PC Member**: SIGKDD (2024), ICLR (2024), NeurIPS (2023), ICML (2024), CVPR (2024), ICCV (2023), ECCV (2024), ICDM (2023), AAAI (2024), UAI (2023), IJCAI (2024), AISTATS (2024), ACML (2023), ACM MM (2024).
 
-**Journal Reviewer**: TNNLS, Information Fusion.
+**Journal Reviewer**: TNNLS, ACM TIST, Information Fusion.
 
 I like making some demo videos. **Demo videos made by me**: [T-Rex](https://trex-counting.github.io/img/Trex-compressed.mp4), [HumanTOMATO](https://www.youtube.com/watch?v=PcxUzZ1zg6o).
 
