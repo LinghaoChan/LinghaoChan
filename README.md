@@ -2,7 +2,7 @@
 
 **Hi here, I'm Ling-Hao CHEN (陈凌灏 in Chinese, Evan in English)!**
 
-[Highlight]: My research goal targets a scalable humanoid agent/avatar controlled or driven by multi-modality signals. 1) Motion generation for downstream tasks (HumanMAC, MotionLCM), 2) Generating high-quality motion (HumanTOMATO), 3) Scalable controller (future). 
+[Highlight]: My research goal targets a scalable humanoid agent/avatar controlled or driven by multi-modality signals. 1) Motion generation for downstream tasks (HumanMAC, MotionLCM), 2) Closed loop in generating high-quality motion (HumanTOMATO, MotionLLM), 3) Scalable controller (future). 
 
 Now, I am a second-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Harry SHUM](https://www.microsoft.com/en-us/research/people/hshum/). I obtained my bachelor's degree from [Xidian University](https://www.xidian.edu.cn/) in June 2022. My research interest includes **Computer Graphics** and **Computer Vision**, especially **motion synthesis**. I have worked as a Research Intern at the International Digital Economy Academy (IDEA Research) since Nov. 2021, where I work closely with Prof. [Lei ZHANG](https://www.leizhang.org/).
 
